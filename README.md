@@ -1,3 +1,10 @@
+### My own note
+this crap hella stolen\
+I don't even know if this is a good profile \
+but it works 
+
+
+
 ### 🟪  user.js
 A `user.js` is a configuration file that can control hundreds of Firefox settings. For a more technical breakdown and explanation, you can read more on the [overview](https://github.com/arkenfox/user.js/wiki/1.1-Overview) wiki page.
 
